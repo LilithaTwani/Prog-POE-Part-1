@@ -1,0 +1,10 @@
+## GUI Prototype 
+The GUI prototype for the CMCS is available in the image folder
+
+Added XAML mockups for the CMCS prototype:
+
+- Login Window: role selection for (Lecturer, Coordinator, Manager) with email and password.
+- Lecturer Window: submit new claims, upload supporting documents, view claim status.
+- Coordinator Window: view and verify pending claims.
+- Manager Window: view verified claims and approve/reject them.
+- It is a visual design only, and there is no functionality yet.
