@@ -1,0 +1,10 @@
+## UML Database Model
+
+Added the UML class diagram for the Contract Monthly Claim System (CMCS) showing the main entities and their relationships:
+
+- Lecturer- submits claims for approval.
+- Claim - contains claim lines and attachments.
+- Claim Attachment- stores uploaded supporting documents.
+- Claim Line - details hourly work and rates.
+- Approval Record - tracks approvals by Programme Coordinators and Academic Managers.
+- Claim Status - maintains an audit trail of claim status changes.
